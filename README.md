@@ -63,19 +63,9 @@
 
 **Gallery (scroll horizontally if needed)**
 
-<table>
-  <tr>
-    <td><img src="assets/project-a/3x3.png" width="280" /></td>
-    <td><img src="assets/project-a/competitive-product-analysis.png" width="280" /></td>
-    <td><img src="assets/project-a/core-function-1 .jpg" width="280" /></td>
-    <td><img src="assets/project-a/core-function-2.jpg" width="280" /></td>
-    <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
-     <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
-      <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
-  </tr>
-</table>
-
-
+<pre>
+<img src="assets/project-a/3x3.png" width="320" /> <img src="assets/project-a/one-to-one.png" width="320" /> <img src="assets/project-a/core-function-1.jpg" width="320" /> <img src="assets/project-a/core-function-2.jpg" width="320" /> <img src="assets/project-a/competitive-product-analysis.png" width="320" /> <img src="assets/project-a/competitive-product-analysis-2.png" width="320" /> <img src="assets/project-a/competitive-product-analysis-3.png" width="320" />
+</pre>
 
 **Gallery (scroll horizontally if needed)**  
 
