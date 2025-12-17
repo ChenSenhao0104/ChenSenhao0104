@@ -6,45 +6,55 @@
 <h1 align="center">Senhao Chen</h1>
 
 <p align="center">
-  Undergraduate @ Hangzhou Dianzi University (HDU), School of Information Engineering<br/>
+  Undergraduate @ Hangzhou Dianzi University Information Engineering School(Hziee)(Note: Intended to pursue a postgraduate degree)<br/>
   Focus: Computer Vision for Industrial Intelligence · VR Simulation · Engineering-oriented R&D
 </p>
 
+
 <p align="center">
   <a href="https://chensenhao0104.github.io/">Portfolio (GitHub Pages)</a> ·
-  <a href="TODO">Email</a> ·
+  <a href="cccssshhh666@gmail.com">Email</a> ·
   <a href="TODO">CV / Resume</a> ·
   <a href="TODO">Google Scholar / ResearchGate (optional)</a>
 </p>
 
+
 ---
+
+
 
 ## Highlights
 
 - **Academic Performance (Comprehensive Evaluation / Major Rank)**
-  - 2023–2024 (Fall): **19 / 309** · Theory Avg: **84.79** · Total: **81.97**
-  - 2023–2024 (Spring): **1 / 329** · Theory Avg: **90.12** · Total: **91.50**
-  - 2024–2025 (Fall): **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
-  - 2024–2025 (Spring): **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
+	- 2023–2024 (Fall): **19 / 309** · Theory Avg: **84.79** · Total: **81.97**
+	- 2023–2024 (Spring): **1 / 329** · Theory Avg: **90.12** · Total: **91.50**
+	- 2024–2025 (Fall): **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
+	- 2024–2025 (Spring): **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
+
+## Timeline
+
+- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
+- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures; explored VR & CV direction
+- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[TODO: link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
+- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen Talent Development and Empowerment Center; deployed internally
+- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
+- **2025/05–2026/01**: 2026 Green & low-carbon expo proposal research (competition project)
 
 - **Keywords**
-  - Computer Vision & Industrial Intelligence · VR/Virtual Simulation · Engineering Practice · Sports Enthusiast (F1)
+	- Computer Vision & Industrial Intelligence · VR/Virtual Simulation · Engineering Practice
 
 ---
 
 ## Selected Projects
 
-> Tip: Put your project screenshots into this repo under:
-> `assets/project-a/`, `assets/project-b/`, `assets/project-c/`
-> Then reference them below.
-
-### A. Motor Vehicle Inspection VR Training & Assessment System (Core Member · Vice Captain)
+### A. VR Training & Assessment System for Vehicle Inspection of Motor Vehicles (Core Member · Vice Captain)
 
 **Overview**  
 A Unity-based VR platform that simulates real vehicle inspection workflows (toe adjustment, headlight inspection, hub inspection, etc.).  
 Supports practice / mock exam / formal assessment with operation logging and scoring analysis, reducing equipment occupancy and training cost.
 
 **My Contributions**
+
 - Designed and implemented interactive workflows and scoring logic for **toe adjustment** and **headlight inspection** modules
 - Built the **operation record & score evaluation** subsystem (rule configuration, statistics, basic visualization UI)
 - Assisted in scene integration and performance optimization for stable FPS on common hardware
@@ -53,8 +63,9 @@ Supports practice / mock exam / formal assessment with operation logging and sco
 **Tech**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
 
 **Gallery (scroll horizontally if needed)**  
-| 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
+
+| 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
+| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | <img src="assets/project-a/1.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
 
 **Links**: Repo: TODO · Demo/Video: TODO
@@ -68,6 +79,7 @@ An industrial defect detection system for scratches/dents/stains based on **YOLO
 Supports **single image, batch, video stream, and real-time camera** inputs as a unified inference pipeline.
 
 **My Contributions**
+
 - Led algorithm design and training workflow: labeling specification, augmentation strategy, hyperparameter tuning
 - Exported YOLOv8 model to **ONNX**, handled dependency adaptation and performance tuning
 - Designed a unified inference pipeline balancing detection quality and real-time performance
@@ -76,8 +88,9 @@ Supports **single image, batch, video stream, and real-time camera** inputs as a
 **Tech**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
 
 **Gallery (scroll horizontally if needed)**  
-| 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
+
+| 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
+| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | <img src="assets/project-b/1.png" width="220" /> | <img src="assets/project-b/2.png" width="220" /> | <img src="assets/project-b/3.png" width="220" /> | <img src="assets/project-b/4.png" width="220" /> | <img src="assets/project-b/5.png" width="220" /> |
 
 **Links**: Repo: TODO · Model/Report: TODO
@@ -93,6 +106,7 @@ A comprehensive expo planning proposal under the theme “绿韵长河共潮生�
 Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured solution.
 
 **My Contributions**
+
 - Co-built the overall proposal framework and thematic boundaries (zero-carbon tech, green city, circular economy, etc.)
 - Took ownership of key chapters: initiation analysis, basic info, policy linkage, activity design, emergency strategy
 - Proposed digital exhibition concepts (interactive screens, data visualization, virtual exhibition hall)
@@ -101,8 +115,9 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 **Tech**: Dual-Carbon Strategy · Expo Planning · Technical Writing · Digital Exhibition Concepts
 
 **Gallery (scroll horizontally if needed)**  
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
+
+| 1                                                | 2                                                | 3                                                | 4                                                |
+| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | <img src="assets/project-c/1.png" width="220" /> | <img src="assets/project-c/2.png" width="220" /> | <img src="assets/project-c/3.png" width="220" /> | <img src="assets/project-c/4.png" width="220" /> |
 
 **Links**: Document: TODO · Poster/Slides: TODO
@@ -121,20 +136,10 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 <details>
   <summary>More awards (click to expand)</summary>
 
+
 - TODO: add more awards here if needed (keep the main list short and strong)
 
 </details>
-
----
-
-## Timeline
-
-- **2023/09**: Started CS undergraduate study at HDU (School of Information Engineering)
-- **2023/09–2024/02**: Core coursework in C/C++, Python, Data Structures; explored VR + CV integration
-- **2023/12–2024/02**: Organized alma mater outreach; featured by local media (Xiangshan County) — **TODO: link**
-- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen partner; deployed internally
-- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
-- **2025/05–2026/01**: Green & low-carbon expo proposal research (competition project)
 
 ---
 
@@ -145,6 +150,8 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 - **Conferences**: WAIC 2025, AI Global Governance HL Meeting 2025, Huawei Connect 2024, etc.
 
 ---
+
+
 
 ## Contact
 
