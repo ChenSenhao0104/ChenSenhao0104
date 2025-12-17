@@ -25,12 +25,10 @@
 ## Highlights
 
 - **Academic Performance (Comprehensive Evaluation / Major Rank)**
-	| Term | Major Rank | Theory Avg | Total |
-	|---|---:|---:|---:|
-	| 2023–2024 (Fall)   | **19 / 309** | **84.79** | **81.97** |
-	| 2023–2024 (Spring) | **1 / 329**  | **90.12** | **91.50** |
-	| 2024–2025 (Fall)   | **1 / 289**  | **97.88** | **96.20** |
-	| 2024–2025 (Spring) | **1 / 290**  | **93.54** | **93.31** |
+2023–2024 (Fall)   :  **19 / 309**  ·  Theory Avg: **84.79**  ·  Total: **81.97**
+2023–2024 (Spring) :  ** 1 / 329**  ·  Theory Avg: **90.12**  ·  Total: **91.50**
+2024–2025 (Fall)   :  ** 1 / 289**  ·  Theory Avg: **97.88**  ·  Total: **96.20**
+2024–2025 (Spring) :  ** 1 / 290**  ·  Theory Avg: **93.54**  ·  Total: **93.31**
 
 ## Timeline
 
