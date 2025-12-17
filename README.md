@@ -30,7 +30,7 @@
 	- 2024–2025 (Fall)  :  **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
 	- 2024–2025 (Spring):  **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
 
-- Timeline
+- **Timeline**
 	- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
 	- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures; explored VR & CV direction
 	- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[Web link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
