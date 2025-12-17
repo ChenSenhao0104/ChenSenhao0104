@@ -22,7 +22,7 @@
 ---
 
 
-## Highlights
+## Academic & Engineering Trajectory
 
 - **Academic Performance (Comprehensive Evaluation / Major Rank)**
 	- 2023–2024 (Fall)  : **19 / 309** · Theory Avg: **84.79** · Total: **81.97**
