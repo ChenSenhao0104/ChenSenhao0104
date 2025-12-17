@@ -115,7 +115,7 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 **Gallery (scroll horizontally if needed)**  
 
 <pre>
-<img src="assets/project-c/exhibition-area-design.png" width="320" /> <img src="assets/project-c/analysis-of-location-advantages.png" width="320" /> <img src="assets/project-c/analysis-of-similarexhibitions.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction1.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction2.png" width="320" /> <img src="assets/project-c/IP-design.png" width="320" /> <img src="assets/project-c/service-plan.png" width="320" /> 
+<img src="assets/project-c/exhibition-area-design.png" width="300" /> <img src="assets/project-c/analysis-of-location-advantages.png" width="320" /> <img src="assets/project-c/analysis-of-similarexhibitions.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction1.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction2.png" width="320" /> <img src="assets/project-c/IP-design.png" width="320" /> <img src="assets/project-c/service-plan.png" width="320" /> 
 </pre>
 
 **Links**: Document: TODO · Poster/Slides: TODO
