@@ -142,8 +142,12 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 - **National 3rd Prize** · 6th National Exhibition Planning & Creative Competition (National Finals) (2025-12-09)
 - **National 3rd Prize** · 3rd National College Students Low-Carbon Circular Technology Innovation Competition (2024-09-01)
 - **National 3rd Prize** · 10th Oriental Design Awards — National College Innovation Design Competition (2024-08-02)
+- **Provincial Special Grand Prize (Top Award)** · 17th National 3D Digital Innovation Design Competition — Zhejiang Province Division  (2024-10-01)
+- **Provincial Top-10 Placement (7th Place)** · Zhejiang Province Aeromodelling (UAV/Drone) Open Competition (2024-12-22)
 - **Provincial 1st Prize** · 20th Zhejiang Province College Students E-commerce Competition (2025-06-01)
 - **Provincial 1st Prize** · 15th Zhejiang Province Exhibition Planning & Creative Competition (2025-10-16)
+
+>As of **2025/12/17**, I have received **26 national-level awards** and **dozens of provincial-level awards**. The honors listed above are **selected highlights**; additional national/provincial awards can be provided **upon request**.
 
 </details>
 
