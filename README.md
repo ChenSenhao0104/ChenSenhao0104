@@ -17,7 +17,7 @@
   <a href="mailto:1764536087@qq.com">Backup Email</a> ·
   <a href="TODO">Blog</a> ·
   <a href="TODO">CV / Resume</a> ·
-  <a href="TODO">Google Scholar / ResearchGate (optional)</a>
+  <a href="TODO">Google Scholar / ResearchGate </a>
 </p>
 
 
@@ -35,7 +35,7 @@
 
 - **Timeline**
 	- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
-	- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures; explored VR & CV direction
+	- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures & Algorithms, OOP, programming fundamentals; explored VR & CV direction
 	- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[Web link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
 	- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen; deployed internally
 	- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
@@ -63,13 +63,13 @@
 
 **Tech**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
 
-**Gallery (scroll horizontally if needed)**
+**Gallery**
 
 <pre>
 <img src="assets/project-a/3x3.png" width="320" /> <img src="assets/project-a/one-to-one.png" width="320" /> <img src="assets/project-a/core-function-1.png" width="320" /> <img src="assets/project-a/core-function-2.png" width="320" /> <img src="assets/project-a/core-function-3.png" width="320" /> <img src="assets/project-a/core-function-4.png" width="320" /> <img src="assets/project-a/additional-function-1.png" width="320" /><img src="assets/project-a/competitive-product-analysis.png" width="320" />
 </pre>
 
-**Links**: Repo: TODO · Demo/Video: TODO
+**Links**: Repo: TODO · Demo/Video: TODO(Under improvement)
 
 ---
 
@@ -87,13 +87,13 @@ An industrial surface-defect detection system based on **YOLOv8** for **rolled-i
 
 **Tech**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
 
-**Gallery (scroll horizontally if needed)**  
+**Gallery**  
 
 <pre>
 <img src="assets/project-b/technical-route-and-algorithm-selection.png" width="320" /> <img src="assets/project-b/core-function.png" width="320" /> <img src="assets/project-b/expanded-functions.png" width="320" /> <img src="assets/project-b/measured-effect.png" width="320" /> <img src="assets/project-b/improvement-process.png" width="320" /> <img src="assets/project-b/operation-screenshot.png" width="320" /> 
 </pre>
 
-**Links**: Repo: TODO · Model/Report: TODO
+**Links**: Repo: TODO · Model/Report: TODO(Under improvement)
 
 ---
 
@@ -114,13 +114,13 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 
 **Tech**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
 
-**Gallery (scroll horizontally if needed)**  
+**Gallery**  
 
 <pre>
 <img src="assets/project-c/exhibition-area-design.png" width="295" /> <img src="assets/project-c/analysis-of-location-advantages.png" width="320" /> <img src="assets/project-c/analysis-of-similarexhibitions.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction1.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction2.png" width="320" /> <img src="assets/project-c/IP-design.png" width="320" /> <img src="assets/project-c/service-plan.png" width="320" /> 
 </pre>
 
-**Links**: Document: TODO · Poster/Slides: TODO
+**Links**: Document: TODO · Poster/Slides: TODO(Under improvement)
 
 ---
 
