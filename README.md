@@ -48,8 +48,8 @@
 ### A. VR Training & Assessment System for Vehicle Inspection of Motor Vehicles (Core Member · Vice Captain)
 
 **Overview**  
-A Unity-based VR platform that simulates real vehicle inspection workflows (covering core inspection stations: toe adjustment (wheel alignment), headlamp beam aiming test (using a beam setter), and hub dynamometer / roller bench test (wheel-rotation-based testing)).  
-Supports practice / mock exam / formal assessment with operation logging and scoring analysis, reducing equipment occupancy and training cost.
+	**A Unity-based VR platform that simulates real vehicle inspection workflows** (covering core inspection stations: toe adjustment (wheel alignment), headlamp beam aiming test (using a beam setter), and hub dynamometer / roller bench test (wheel-rotation-based testing)).  
+	Supports practice / mock exam / formal assessment with operation logging and scoring analysis, reducing equipment occupancy and training cost.
 
 **My Contributions**
 
