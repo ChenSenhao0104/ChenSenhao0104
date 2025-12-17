@@ -61,6 +61,22 @@
 
 **Tech**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
 
+**Gallery (scroll horizontally if needed)**
+
+<table>
+  <tr>
+    <td><img src="assets/project-a/3x3.png" width="280" /></td>
+    <td><img src="assets/project-a/competitive-product-analysis.png" width="280" /></td>
+    <td><img src="assets/project-a/core-function-1 .jpg" width="280" /></td>
+    <td><img src="assets/project-a/core-function-2.jpg" width="280" /></td>
+    <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
+     <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
+      <td><img src="assets/project-a/one-to-one.png" width="280" /></td>
+  </tr>
+</table>
+
+
+
 **Gallery (scroll horizontally if needed)**  
 
 | 1                                                  | 2                                                         | 3                                                            | 4                                                            | 5                                                            | 6                                                            | 7                                                            |
