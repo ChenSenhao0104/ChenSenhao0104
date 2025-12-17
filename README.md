@@ -87,9 +87,9 @@ An industrial surface-defect detection system based on **YOLOv8** for **rolled-i
 
 **Gallery (scroll horizontally if needed)**  
 
-| 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
-| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| <img src="assets/project-b/1.png" width="220" /> | <img src="assets/project-b/2.png" width="220" /> | <img src="assets/project-b/3.png" width="220" /> | <img src="assets/project-b/4.png" width="220" /> | <img src="assets/project-b/5.png" width="220" /> |
+<pre>
+<img src="assets/project-b/technical-route-and-algorithm-selection.png" width="320" /> <img src="assets/project-b/core-function.png" width="320" /> <img src="assets/project-b/expanded-functions.png" width="320" /> <img src="assets/project-b/measured-effect.png" width="320" /> <img src="assets/project-b/improvement-process.png" width="320" /> <img src="assets/project-b/operation-screenshot.png" width="320" /> 
+</pre>
 
 **Links**: Repo: TODO · Model/Report: TODO
 
