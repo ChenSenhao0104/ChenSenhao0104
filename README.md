@@ -6,6 +6,10 @@
 <h1 align="center">Senhao Chen</h1>
 
 <p align="center">
+  <img src="assets/signature/signature.jpg" alt="Senhao Chen Signature" width="460" />
+</p>
+
+<p align="center">
   Undergraduate @ Hangzhou Dianzi University Information Engineering School(Hziee)<br/>
   Focus: Computer Vision for Industrial Intelligence · VR Simulation · Engineering-oriented R&D
 </p>
@@ -188,3 +192,7 @@ If you’d like to support **EngineRealm (擎境科技)** or explore collaborati
 - Email (Backup): [1764536087@qq.com](mailto:1764536087@qq.com)
 - Portfolio: [Portfolio (GitHub Pages)](https://chensenhao0104.github.io/)
 - Location: Hangzhou, China
+
+<p align="center">
+  <img src="assets/signature/signature.jpg" alt="Senhao Chen Signature" width="520" />
+</p>
