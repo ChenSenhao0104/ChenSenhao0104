@@ -6,7 +6,7 @@
 <h1 align="center">Senhao Chen</h1>
 
 <p align="center">
-  <img src="assets/signature/signature.jpg" alt="Senhao Chen Signature" width="460" />
+  <img src="assets/signature/signature.jpg" alt="Senhao Chen Signature" width="240" />
 </p>
 
 <p align="center">
