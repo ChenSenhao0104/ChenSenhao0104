@@ -64,14 +64,7 @@
 **Gallery (scroll horizontally if needed)**
 
 <pre>
-<img src="assets/project-a/3x3.png" width="320" /> <img src="assets/project-a/one-to-one.png" width="320" /> <img src="assets/project-a/core-function-1.jpg" width="320" /> <img src="assets/project-a/core-function-2.jpg" width="320" /> <img src="assets/project-a/competitive-product-analysis.png" width="320" /> <img src="assets/project-a/competitive-product-analysis-2.png" width="320" /> <img src="assets/project-a/competitive-product-analysis-3.png" width="320" />
-</pre>
-
-**Gallery (scroll horizontally if needed)**  
-
-| 1                                                  | 2                                                         | 3                                                            | 4                                                            | 5                                                            | 6                                                            | 7                                                            |
-| -------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="assets/project-a/3x3.png" width="220" /> | <img src="assets/project-a/one-to-one.png" width="220" /> | <img src="assets/project-a/core-function-1 .jpg" width="220" /> | <img src="assets/project-a/core-function-2.jpg" width="220" /> | <img src="assets/project-a/competitive-product-analysis.png" width="220" /> | <img src="assets/project-a/competitive-product-analysis.png" width="220" /> | <img src="assets/project-a/competitive-product-analysis.png" width="220" /> |
+<img src="assets/project-a/3x3.png" width="320" /> <img src="assets/project-a/one-to-one.png" width="320" /> <img src="assets/project-a/core-function-1.png" width="320" /> <img src="assets/project-a/core-function-2.png" width="320" /> <img src="assets/project-a/core-function-3.png" width="320" /> <img src="assets/project-a/core-function-4.png" width="320" /> <img src="assets/project-a/additional-function-1.png" width="320" /><img src="assets/project-a/competitive-product-analysis.png" width="320" />
 
 **Links**: Repo: TODO · Demo/Video: TODO
 
