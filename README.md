@@ -74,8 +74,7 @@
 ### B. Surface Defect Visual Inspection System for Vehicle Parts (Team Lead)
 
 **Overview**  
-An industrial defect detection system for scratches/dents/stains based on **YOLOv8**, covering a full pipeline from dataset construction to training and deployment.  
-Supports **single image, batch, video stream, and real-time camera** inputs as a unified inference pipeline.
+An industrial surface-defect detection system based on **YOLOv8** for **rolled-in scale (RS)**, **patches (Pa)**, **cracks (Cr)**, **pitted surface (PS)**, **inclusions (In)**, and **scratches (Sc)**, covering an end-to-end pipeline from dataset construction to model training and deployment.
 
 **My Contributions**
 
@@ -111,7 +110,7 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 - Proposed digital exhibition concepts (interactive screens, data visualization, virtual exhibition hall)
 - Contributed to risk response (policy change, self-sustainability) and differentiation strategy
 
-**Tech**: Dual-Carbon Strategy · Expo Planning · Technical Writing · Digital Exhibition Concepts
+**Tech**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
 
 **Gallery (scroll horizontally if needed)**  
 
