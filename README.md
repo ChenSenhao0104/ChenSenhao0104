@@ -125,17 +125,25 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 ## Honors (Selected)
 
 - **National 1st Prize** · 17th National 3D Digital Innovation Design Competition (2024-12-01)
-- **National 1st Prize** · 7th China Virtual Reality Competition (Finals) (2024-12-28)
-- **National 1st Prize** · 19th National Business Elite Challenge (Culture & Tourism Expo Track) (2025-11-10)
-- **National 2nd Prize** · AI Application Scenario Innovation Challenge (2024-10-27)
-- **National 2nd Prize** · National College Students Digital Media Works & Creativity Competition (2025-10-01)
-- **Provincial 1st Prize** · Zhejiang College Students E-commerce Competition (2025-06-01)
+- **National 1st Prize** · 7th China Virtual Reality Competition (National Finals) (2024-12-28)
+- **National 1st Prize** · 19th National Business Elite Challenge — Culture, Tourism & Exhibition Innovation and Entrepreneurship Practice Competition (2025-11-10)
+- **National 2nd Prize** · 2nd National AI Application Scenario Innovation Challenge (2024-10-27)
+- **National 2nd Prize** · 19th China Good Idea & National Digital Art Design Competition (National Finals) (2025-08-25)
+- **National 2nd Prize** · 13th National College Students Digital Media Technology Works & Creativity Competition (National Finals) (2025-10-01)
 
 <details>
   <summary>More awards (click to expand)</summary>
 
-
-- TODO: add more awards here if needed (keep the main list short and strong)
+- **National 3rd Prize** · 15th China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition — Enterprise Track (National Finals) (2024-08-02)
+- **National 3rd Prize** · 16th China Undergraduate Service Outsourcing Innovation & Entrepreneurship Competition — Enterprise Track (National Finals) (2025-07-01)
+- **National 3rd Prize** · 10th China Collegiate Computing Competition — Network Technology Challenge (Grand Final) (2025-07-01)
+- **National 3rd Prize** · 18th China College Students Computer Design Competition (2025-07-01)
+- **National 3rd Prize** · 13th Future Designer — National College Digital Art Design Competition (National Finals) (2025-08-28)
+- **National 3rd Prize** · 6th National Exhibition Planning & Creative Competition (National Finals) (2025-12-09)
+- **National 3rd Prize** · 3rd National College Students Low-Carbon Circular Technology Innovation Competition (2024-09-01)
+- **National 3rd Prize** · 10th Oriental Design Awards — National College Innovation Design Competition (2024-08-02)
+- **Provincial 1st Prize** · 20th Zhejiang Province College Students E-commerce Competition (2025-06-01)
+- **Provincial 1st Prize** · 15th Zhejiang Province Exhibition Planning & Creative Competition (2025-10-16)
 
 </details>
 
