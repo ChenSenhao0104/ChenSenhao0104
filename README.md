@@ -59,7 +59,7 @@
 - Assisted in scene integration and performance optimization for stable FPS on common hardware
 - Collaborated with instructors and enterprise partner (FAW-Volkswagen Talent Development & Empowerment Center) for iterative delivery
 
-**Tech Stack**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
+**Tech**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
 
 **Gallery (scroll horizontally if needed)**
 
@@ -83,7 +83,7 @@ An industrial surface-defect detection system based on **YOLOv8** for **rolled-i
 - Designed a unified inference pipeline balancing detection quality and real-time performance
 - Coordinated technical alignment with **Han’s Laser Technology Industry Group** for engineering-grade deployment direction
 
-**Tech Stack**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
+**Tech**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
 
 **Gallery (scroll horizontally if needed)**  
 
@@ -110,13 +110,13 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 - Proposed digital exhibition concepts (interactive screens, data visualization, virtual exhibition hall)
 - Contributed to risk response (policy change, self-sustainability) and differentiation strategy
 
-**Tech Stack**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
+**Tech**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
 
 **Gallery (scroll horizontally if needed)**  
 
-| 1                                                | 2                                                | 3                                                | 4                                                |
-| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| <img src="assets/project-c/1.png" width="220" /> | <img src="assets/project-c/2.png" width="220" /> | <img src="assets/project-c/3.png" width="220" /> | <img src="assets/project-c/4.png" width="220" /> |
+<pre>
+<img src="assets/project-c/exhibition-area-design.png" width="320" /> <img src="assets/project-c/analysis-of-location-advantages.png" width="320" /> <img src="assets/project-c/analysis-of-similarexhibitions.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction1.png" width="320" /> <img src="assets/project-c/exhibition-hall-introduction2.png" width="320" /> <img src="assets/project-c/IP-design.png" width="320" /> <img src="assets/project-c/service-plan.png" width="320" /> 
+</pre>
 
 **Links**: Document: TODO · Poster/Slides: TODO
 
