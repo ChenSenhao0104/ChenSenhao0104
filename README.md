@@ -13,11 +13,13 @@
 
 <p align="center">
   <a href="https://chensenhao0104.github.io/">Portfolio (GitHub Pages)</a> ·
-  <a href="mailto:cccssshhh666@gmail.com">Email</a> ·
+  <a href="mailto:cccssshhh666@gmail.com">Email</a> /
+  <a href="mailto:1764536087@qq.com">Backup Email</a> ·
   <a href="TODO">Blog</a> ·
   <a href="TODO">CV / Resume</a> ·
   <a href="TODO">Google Scholar / ResearchGate (optional)</a>
 </p>
+
 
 
 ---
@@ -165,8 +167,8 @@ If you’d like to support **EngineRealm (擎境科技)** or explore collaborati
 - **Item**: EngineRealm Team T-shirt  
 - **Price**: **$6 / piece** *(excluding shipping; bulk orders negotiable)*  
 - **Size / Color**:S–XXL · Black / White
-- **How to order**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Merch%20Order%20-%20EngineRealm%20T-shirt)
-- **Business inquiries**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Business%20Inquiry%20-%20EngineRealm) *(sponsorship · enterprise collaboration · campus partnership)*
+- **How to order**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Merch%20Order%20-%20EngineRealm%20T-shirt) / [1764536087@qq.com](mailto:1764536087@qq.com?subject=Merch%20Order%20-%20EngineRealm%20T-shirt)
+- **Business inquiries**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Business%20Inquiry%20-%20EngineRealm) / [1764536087@qq.com](mailto:1764536087@qq.com?subject=Business%20Inquiry%20-%20EngineRealm) *(sponsorship · enterprise collaboration · campus partnership)*
 
 ---
 
@@ -182,6 +184,7 @@ If you’d like to support **EngineRealm (擎境科技)** or explore collaborati
 
 ## Contact
 
-- Email:<a href="mailto:cccssshhh666@gmail.com">cccssshhh666@gmail.com</a> 
-- Portfolio: <a href="https://chensenhao0104.github.io/">[Portfolio (GitHub Pages)](https://chensenhao0104.github.io/)</a> 
+- Email (Primary): [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com)
+- Email (Backup): [1764536087@qq.com](mailto:1764536087@qq.com)
+- Portfolio: [Portfolio (GitHub Pages)](https://chensenhao0104.github.io/)
 - Location: Hangzhou, China
