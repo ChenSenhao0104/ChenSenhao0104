@@ -25,20 +25,18 @@
 ## Highlights
 
 - **Academic Performance (Comprehensive Evaluation / Major Rank)**
-- 2023–2024 (Fall): **19 / 309** · Theory Avg: **84.79** · Total: **81.97**
-- 2023–2024 (Spring):  **1 / 329** · Theory Avg: **90.12** · Total: **91.50**
-- 2024–2025 (Fall)  :  **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
-- 2024–2025 (Spring):  **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
+	- 2023–2024 (Fall)  : **19 / 309** · Theory Avg: **84.79** · Total: **81.97**
+	- 2023–2024 (Spring):  **1 / 329** · Theory Avg: **90.12** · Total: **91.50**
+	- 2024–2025 (Fall)  :  **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
+	- 2024–2025 (Spring):  **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
 
-
-## Timeline
-
-- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
-- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures; explored VR & CV direction
-- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[Web link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
-- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen Talent Development and Empowerment Center; deployed internally
-- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
-- **2025/05–2026/01**: 2026 Green & low-carbon expo proposal research (competition project)
+- Timeline
+	- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
+	- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures; explored VR & CV direction
+	- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[Web link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
+	- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen Talent Development and Empowerment Center; deployed internally
+	- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
+	- **2025/05–2026/01**: 2026 Green & low-carbon expo proposal research (competition project)
 
 - **Keywords**
 	- Computer Vision & Industrial Intelligence · VR/Virtual Simulation · Engineering Practice
