@@ -65,7 +65,7 @@
 
 | 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| <img src="assets/project-a/1.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
+| <img src="assets/project-a/3x3网状分级式教学配套多维引导机制与定量评估体系.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
 
 **Links**: Repo: TODO · Demo/Video: TODO
 
