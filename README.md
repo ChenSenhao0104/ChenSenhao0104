@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://chensenhao0104.github.io/">Portfolio (GitHub Pages)</a> ·
-  <a href="cccssshhh666@gmail.com">Email</a> ·
+  <a href="mailto:cccssshhh666@gmail.com">Email</a> ·
   <a href="TODO">Blog</a> ·
   <a href="TODO">CV / Resume</a> ·
   <a href="TODO">Google Scholar / ResearchGate (optional)</a>
@@ -65,7 +65,7 @@
 
 | 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
 | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| <img src="assets/project-a/3x3网状分级式教学配套多维引导机制与定量评估体系.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
+| <img src="assets/project-a/3x3.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
 
 **Links**: Repo: TODO · Demo/Video: TODO
 
@@ -142,6 +142,22 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 
 ---
 
+## Collaboration & Merch
+
+If you’d like to support **EngineRealm (擎境科技)** or explore collaboration opportunities, you can also purchase our team merch.
+
+<p align="center">
+  <img src="assets/merch/enginerrealm-shirt.png" alt="EngineRealm Merch" width="820">
+</p>
+
+- **Item**: EngineRealm Team T-shirt  
+- **Price**: **$6 / piece** *(excluding shipping; bulk orders negotiable)*  
+- **Size / Color**: TODO (e.g., S–XXL, Black/White)  
+- **How to order**: TODO (Email / WeChat / Form link)  
+- **Business inquiries**: TODO (sponsorship / enterprise cooperation / campus partnership)
+
+---
+
 ## Beyond Work
 
 - **Sports**: F1 fan · Basketball · Karting · Badminton · Billiards · Handball · E-sports · Table Tennis · Tennis · Sailing · Football (mid-to-advanced)
@@ -154,6 +170,6 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 
 ## Contact
 
-- Email: TODO
-- Portfolio: https://chensenhao0104.github.io/
+- Email:<a href="mailto:cccssshhh666@gmail.com">cccssshhh666@gmail.com</a> 
+- Portfolio: <a href="https://chensenhao0104.github.io/">[Portfolio (GitHub Pages)](https://chensenhao0104.github.io/)</a> 
 - Location: Hangzhou, China (TODO if you want)
