@@ -59,7 +59,7 @@
 - Assisted in scene integration and performance optimization for stable FPS on common hardware
 - Collaborated with instructors and enterprise partner (FAW-Volkswagen Talent Development & Empowerment Center) for iterative delivery
 
-**Tech**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
+**Tech Stack**: Unity · C# · VR Simulation · Interaction Design · Assessment Logic
 
 **Gallery (scroll horizontally if needed)**
 
@@ -83,7 +83,7 @@ An industrial surface-defect detection system based on **YOLOv8** for **rolled-i
 - Designed a unified inference pipeline balancing detection quality and real-time performance
 - Coordinated technical alignment with **Han’s Laser Technology Industry Group** for engineering-grade deployment direction
 
-**Tech**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
+**Tech Stack**: YOLOv8 · Object Detection · Deep Learning · ONNX · Industrial Vision
 
 **Gallery (scroll horizontally if needed)**  
 
@@ -110,7 +110,7 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 - Proposed digital exhibition concepts (interactive screens, data visualization, virtual exhibition hall)
 - Contributed to risk response (policy change, self-sustainability) and differentiation strategy
 
-**Tech**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
+**Tech Stack**: Dual-Carbon Strategy · Green & Low-Carbon Industry · Expo Planning · Digital Expo
 
 **Gallery (scroll horizontally if needed)**  
 
