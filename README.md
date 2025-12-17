@@ -158,7 +158,7 @@ Explores “Green & Low-Carbon + Digital Tech + Urban Expo” as a structured so
 If you’d like to support **EngineRealm (擎境科技)** or explore collaboration opportunities, you can also purchase our team merch.
 
 <p align="center">
-  <img src="assets/merch/company-uniforms.png" alt="EngineRealm Merch" width="820">
+  <img src="assets/merch/company-uniforms.png" alt="EngineRealm Merch" width="666">
 </p>
 
 
