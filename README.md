@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://chensenhao0104.github.io/">Portfolio (GitHub Pages)</a> ·
   <a href="cccssshhh666@gmail.com">Email</a> ·
+  <a href="TODO">Blog</a> ·
   <a href="TODO">CV / Resume</a> ·
   <a href="TODO">Google Scholar / ResearchGate (optional)</a>
 </p>
