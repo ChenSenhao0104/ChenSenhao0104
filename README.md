@@ -63,9 +63,9 @@
 
 **Gallery (scroll horizontally if needed)**  
 
-| 1                                                | 2                                                | 3                                                | 4                                                | 5                                                |
-| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| <img src="assets/project-a/3x3.png" width="220" /> | <img src="assets/project-a/2.png" width="220" /> | <img src="assets/project-a/3.png" width="220" /> | <img src="assets/project-a/4.png" width="220" /> | <img src="assets/project-a/5.png" width="220" /> |
+| 1                                                  | 2                                                         | 3                                                            | 4                                                            | 5                                                            |
+| -------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="assets/project-a/3x3.png" width="220" /> | <img src="assets/project-a/one-to-one.png" width="220" /> | <img src="assets/project-a/core-function-1 .jpg" width="220" /> | <img src="assets/project-a/core-function-2.jpg" width="220" /> | <img src="assets/project-a/competitive-product-analysis.png" width="220" /> |
 
 **Links**: Repo: TODO · Demo/Video: TODO
 
