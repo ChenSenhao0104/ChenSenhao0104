@@ -170,7 +170,7 @@ If you’d like to support **EngineRealm (擎境科技)** or explore collaborati
 
 - **Item**: EngineRealm Team T-shirt  
 - **Price**: **$6 / piece** *(excluding shipping; bulk orders negotiable)*  
-- **Size / Color**:S–XXL · Black / White
+- **Size / Color**:S–XXL · Black / White / Navy
 - **How to order**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Merch%20Order%20-%20EngineRealm%20T-shirt) / [1764536087@qq.com](mailto:1764536087@qq.com?subject=Merch%20Order%20-%20EngineRealm%20T-shirt)
 - **Business inquiries**: [cccssshhh666@gmail.com](mailto:cccssshhh666@gmail.com?subject=Business%20Inquiry%20-%20EngineRealm) / [1764536087@qq.com](mailto:1764536087@qq.com?subject=Business%20Inquiry%20-%20EngineRealm) *(sponsorship · enterprise collaboration · campus partnership)*
 
