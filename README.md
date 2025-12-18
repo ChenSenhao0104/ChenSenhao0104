@@ -39,7 +39,7 @@
 
 - **Timeline**
 	- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
-	- **2023/09–2024/02**: Core coursework in C/C++，C#, Python,Java，JavaScript，Data Structures & Algorithms, OOP, programming fundamentals; explored VR & CV direction
+	- **2023/09–2024/02**: Core coursework in C/C++，Python,C#, Java，JavaScript/TypeScript，HTML，CSS，Data Structures & Algorithms, OOP, programming fundamentals; explored VR & CV direction
 	- **2023/12–2024/02**: Implement the Alma mater return visit program; Reported by Xiangshan County media center — **[Web link](https://app.cnxsg.cn/webDetails/news?id=7846213&tenantId=76&uid=65bf309011237004a2d22e96)**
 	- **2023/09–2024/11**: Co-developed vehicle inspection VR platform with FAW-Volkswagen; deployed internally
 	- **2024/12–2026/02**: Signed R&D cooperation with Han’s Laser on multi-source visual defect inspection engine
