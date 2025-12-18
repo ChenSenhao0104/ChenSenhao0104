@@ -64,11 +64,7 @@
 
   <br/>
 
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
-  ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
-  ![AI Chat Tools](https://img.shields.io/badge/AI%20Chat%20Tools-Proficient-444444?style=flat)
-
-![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat) ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white) ![AI Chat Tools](https://img.shields.io/badge/AI%20Chat%20Tools-Proficient-444444?style=flat) ![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
 
 </details>
 
