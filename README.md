@@ -48,7 +48,7 @@
 - **Keywords**
 	- Computer Vision & Industrial Intelligence · VR/Virtual Simulation · Engineering Practice
 
-<!-- my-skills (clean & credible) -->
+<!-- my-skills -->
 
 | Property                     | Data                                                         |
 | ---------------------------- | ------------------------------------------------------------ |
