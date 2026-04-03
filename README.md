@@ -36,6 +36,7 @@
 	- 2023–2024 (Spring):  **1 / 329** · Theory Avg: **90.12** · Total: **91.50**
 	- 2024–2025 (Fall)  :  **1 / 289** · Theory Avg: **97.88** · Total: **96.20**
 	- 2024–2025 (Spring):  **1 / 290** · Theory Avg: **93.54** · Total: **93.31**
+   	- 2025–2026 (Fall)	:  **1 / 287** · Theory Avg: **99.00** · Total: **94.50**
 
 - **Timeline**
 	- **2023/09**: Started CS undergraduate study at Hziee (School of Computer Science)
